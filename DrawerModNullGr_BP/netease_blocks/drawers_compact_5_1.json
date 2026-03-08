@@ -1,0 +1,60 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:block": {
+        "description": {
+            "category": "sevenleaves_block", 
+            "register_to_creative_menu": true, 
+            "identifier": "drawers_nullgr:drawers_compact_5_1"
+        }, 
+        "components": {
+            "minecraft:block_light_emission": {
+                "emission": 0.0
+            }, 
+            "netease:solid": {
+                "value": true
+            }, 
+            "minecraft:block_light_absorption": {
+                "value": 0
+            }, 
+            "netease:listen_block_remove": {
+                "value": true
+            }, 
+            "netease:face_directional": {
+                "type": "direction"
+            }, 
+            "netease:block_entity": {
+                "tick": true, 
+                "movable": false
+            }, 
+            "netease:aabb": {
+                "collision": {
+                    "max": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ], 
+                    "min": [
+                        0.0, 
+                        0.0, 
+                        0.4
+                    ]
+                }, 
+                "clip": {
+                    "max": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ], 
+                    "min": [
+                        0.0, 
+                        0.0, 
+                        0.4
+                    ]
+                }
+            }, 
+            "minecraft:destroy_time": {
+                "value": 1.0
+            }
+        }
+    }
+}

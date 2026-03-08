@@ -1,0 +1,89 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "drawers_nullgr:drawers_0_front_1": {
+            "textures": "textures/blocks/drawers_0_front_1"
+        },
+        "drawers_nullgr:drawers_0_front_2": {
+            "textures": "textures/blocks/drawers_0_front_2"
+        },
+        "drawers_nullgr:drawers_0_front_4": {
+            "textures": "textures/blocks/drawers_0_front_4"
+        },
+        "drawers_nullgr:drawers_0_side": {
+            "textures": "textures/blocks/drawers_0_side"
+        },
+        "drawers_nullgr:drawers_1_front_1": {
+            "textures": "textures/blocks/drawers_1_front_1"
+        },
+        "drawers_nullgr:drawers_1_front_2": {
+            "textures": "textures/blocks/drawers_1_front_2"
+        },
+        "drawers_nullgr:drawers_1_front_4": {
+            "textures": "textures/blocks/drawers_1_front_4"
+        },
+        "drawers_nullgr:drawers_1_side": {
+            "textures": "textures/blocks/drawers_1_side"
+        },
+        "drawers_nullgr:drawers_2_front_1": {
+            "textures": "textures/blocks/drawers_2_front_1"
+        },
+        "drawers_nullgr:drawers_2_front_2": {
+            "textures": "textures/blocks/drawers_2_front_2"
+        },
+        "drawers_nullgr:drawers_2_front_4": {
+            "textures": "textures/blocks/drawers_2_front_4"
+        },
+        "drawers_nullgr:drawers_2_side": {
+            "textures": "textures/blocks/drawers_2_side"
+        },
+        "drawers_nullgr:drawers_3_front_1": {
+            "textures": "textures/blocks/drawers_3_front_1"
+        },
+        "drawers_nullgr:drawers_3_front_2": {
+            "textures": "textures/blocks/drawers_3_front_2"
+        },
+        "drawers_nullgr:drawers_3_front_4": {
+            "textures": "textures/blocks/drawers_3_front_4"
+        },
+        "drawers_nullgr:drawers_3_side": {
+            "textures": "textures/blocks/drawers_3_side"
+        },
+        "drawers_nullgr:drawers_4_front_1": {
+            "textures": "textures/blocks/drawers_4_front_1"
+        },
+        "drawers_nullgr:drawers_4_front_2": {
+            "textures": "textures/blocks/drawers_4_front_2"
+        },
+        "drawers_nullgr:drawers_4_front_4": {
+            "textures": "textures/blocks/drawers_4_front_4"
+        },
+        "drawers_nullgr:drawers_4_side": {
+            "textures": "textures/blocks/drawers_4_side"
+        },
+        "drawers_nullgr:drawers_5_front_1": {
+            "textures": "textures/blocks/drawers_5_front_1"
+        },
+        "drawers_nullgr:drawers_5_front_2": {
+            "textures": "textures/blocks/drawers_5_front_2"
+        },
+        "drawers_nullgr:drawers_5_front_4": {
+            "textures": "textures/blocks/drawers_5_front_4"
+        },
+        "drawers_nullgr:drawers_5_side": {
+            "textures": "textures/blocks/drawers_5_side"
+        },
+        "drawers_nullgr:drawers_comp_side": {
+            "textures": "textures/blocks/drawers_comp_side"
+        },
+        "drawers_nullgr:drawers_comp_front_0": {
+            "textures": "textures/blocks/drawers_comp_front_0"
+        },
+        "drawers_nullgr:drawers_comp_front_1": {
+            "textures": "textures/blocks/drawers_comp_front_1"
+        },
+        "drawers_nullgr:drawers_comp_front_2": {
+            "textures": "textures/blocks/drawers_comp_front_2"
+        }
+    }
+}

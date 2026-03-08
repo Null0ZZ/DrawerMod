@@ -1,0 +1,51 @@
+{
+    "format_version": "1.13.0",
+    "minecraft:entity": {
+        "component_groups": {
+
+        },
+        "components": {
+            "minecraft:balloonable": {
+                "mass": 0.6
+            },
+            "minecraft:collision_box": {
+                "height": 0.0,
+                "width": 0.0
+            },
+            "minecraft:hurt_on_condition": {
+                "damage_conditions": [
+                    {
+                        "cause": "lava",
+                        "damage_per_tick": 4,
+                        "filters": {
+                            "operator": "==",
+                            "subject": "self",
+                            "test": "in_lava",
+                            "value": true
+                        }
+                    }
+                ]
+            },
+            "minecraft:movement": {
+                "value": 0.25
+            },
+            "minecraft:persistent": {
+
+            },
+            "minecraft:pushable": {
+                "is_pushable": true,
+                "is_pushable_by_piston": true
+            }
+        },
+        "description": {
+            "identifier": "drawers_nullgr:icon",
+            "is_experimental": false,
+            "is_spawnable": true,
+            "is_summonable": true,
+            "runtime_identifier": "minecraft:chicken"
+        },
+        "events": {
+
+        }
+    }
+}

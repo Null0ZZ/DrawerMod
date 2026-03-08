@@ -1,0 +1,40 @@
+{
+    "format_version": 1,
+    
+    "header": {
+        "name": "DrawerModNullGr_BP",
+        "description": "抽屉模组行为包",
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ],
+        "uuid": "fd5095f9-91ac-4dcd-93c2-0b5992b5e485",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "72c22873-59f0-4a99-9232-6b8a7fdfaf36",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "3d65ebe8-f503-4b32-a8e1-01ee5fa079d6",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "format_version": "1.13.0",
+    "netease:block_geometry": {
+        "bones": [
+            {
+                "cubes": [
+                    {
+                        "origin": [
+                            -16,
+                            0,
+                            8
+                        ],
+                        "pivot": [
+                            -8,
+                            0,
+                            9
+                        ],
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "size": [
+                            16,
+                            16,
+                            8
+                        ],
+                        "uv": {
+                            "down": {
+                                "texture": 0,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    16,
+                                    8
+                                ]
+                            },
+                            "east": {
+                                "texture": 1,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    8,
+                                    16
+                                ]
+                            },
+                            "north": {
+                                "texture": 2,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    16,
+                                    16
+                                ]
+                            },
+                            "south": {
+                                "texture": 3,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    16,
+                                    16
+                                ]
+                            },
+                            "up": {
+                                "texture": 0,
+                                "uv": [
+                                    16,
+                                    8
+                                ],
+                                "uv_size": [
+                                    -16,
+                                    -8
+                                ]
+                            },
+                            "west": {
+                                "texture": 1,
+                                "uv": [
+                                    0,
+                                    0
+                                ],
+                                "uv_size": [
+                                    8,
+                                    16
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "name": "bone",
+                "pivot": [
+                    -8,
+                    0,
+                    9
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "description": {
+            "identifier": "drawers_nullgr:drawers_compact_5_4_packing",
+            "textures": [
+                "drawers_nullgr:drawers_5_side_h_packing",
+                "drawers_nullgr:drawers_5_side_v_packing",
+                "drawers_nullgr:drawers_5_front_4_packing",
+                "drawers_nullgr:drawers_5_side_packing"
+            ],
+            "textures_descriptions": [
+                {
+                    "length": 16,
+                    "width": 16
+                },
+                {
+                    "length": 16,
+                    "width": 16
+                },
+                {
+                    "length": 16,
+                    "width": 16
+                },
+                {
+                    "length": 16,
+                    "width": 16
+                }
+            ],
+            "use_ao": false
+        }
+    }
+}

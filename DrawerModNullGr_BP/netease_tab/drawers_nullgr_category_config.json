@@ -1,0 +1,9 @@
+{
+    "category": [
+        {
+            "icon": "textures/blocks/drawers_0_front_2",
+            "labelText": "sevenleaves_block",
+            "name": "sevenleaves_block"
+        }
+    ]
+}

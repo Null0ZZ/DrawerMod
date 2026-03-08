@@ -1,0 +1,29 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "DrawerModNullGr_RP",
+        "description": "抽屉模组资源包",
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ],
+        "uuid": "3d65ebe8-f503-4b32-a8e1-01ee5fa079d6",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "cbb99222-fb87-4856-a7c8-6dbcc45fca6d",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}

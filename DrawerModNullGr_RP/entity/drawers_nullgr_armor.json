@@ -1,0 +1,32 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "action": "animation.displaystand_test.action",
+                "blocks": "animation.displaystand_test.blocks",
+                "items": "animation.displaystand_test.items",
+                "wea": "animation.displaystand_test.wea"
+            },
+            "enable_attachables": true,
+            "geometry": {
+                "default": "geometry.icon_armor"
+            },
+            "identifier": "drawers_nullgr:armor",
+            "materials": {
+                "default": "chicken"
+            },
+            "render_controllers": [
+                "controller.render.chicken"
+            ],
+            "scripts": {
+                "initialize": [
+                    "variable.time_offset_displaystand = Math.random(0, 100000);"
+                ]
+            },
+            "textures": {
+                "default": "textures/entity/chicken"
+            }
+        }
+    }
+}

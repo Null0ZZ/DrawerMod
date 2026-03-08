@@ -1,0 +1,21 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "enable_attachables": true,
+            "geometry": {
+                "default": "geometry.potItem"
+            },
+            "identifier": "drawers_nullgr:icon",
+            "materials": {
+                "default": "chicken"
+            },
+            "render_controllers": [
+                "controller.render.chicken"
+            ],
+            "textures": {
+                "default": "textures/entity/chicken"
+            }
+        }
+    }
+}

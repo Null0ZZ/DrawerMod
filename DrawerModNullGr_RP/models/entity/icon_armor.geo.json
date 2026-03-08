@@ -1,0 +1,62 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.icon_armor",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 5.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "root",
+					"pivot": [0, 0, 0],
+					"rotation": [0, 90, 0]
+				},
+				{
+					"name": "leftLeg",
+					"parent": "root",
+					"pivot": [1.9, 6, 0]
+				},
+				{
+					"name": "rightLeg",
+					"parent": "root",
+					"pivot": [-1.9, 6, 0]
+				},
+				{
+					"name": "head",
+					"parent": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "hat",
+					"parent": "head",
+					"pivot": [0, 5, 0]
+				},
+				{
+					"name": "body",
+					"parent": "root",
+					"pivot": [0, 4.5, 0]
+				},
+				{
+					"name": "rightitem",
+					"parent": "root",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "leftArm",
+					"parent": "root",
+					"pivot": [5, 4.5, 0]
+				},
+				{
+					"name": "rightArm",
+					"parent": "root",
+					"pivot": [-5, 4.5, 0]
+				}
+			]
+		}
+	]
+}
